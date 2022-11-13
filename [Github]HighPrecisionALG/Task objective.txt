@@ -1,5 +1,0 @@
-Task objective: perform high-precision addition
-Enter two N-bit positive integers, and output their added values.
-Cyclic input, unless both addends entered are - 1
-
-(The number of digits of two addends is less than or equal to 200)
