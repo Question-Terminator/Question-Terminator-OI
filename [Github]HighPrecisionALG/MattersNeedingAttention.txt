@@ -1,1 +1,0 @@
-Double click main Cpp to view the code, please copy the code and run it with another compiler. If the compiler you are using is also Xcode, you can use Xcode to open the code directly and run it.
